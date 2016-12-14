@@ -1,0 +1,9 @@
+.env
+/node_modules
+/vendor/*
+!/vendor/pingpong
+!/vendor/laravel
+.DS_Store
+*.map
+composer.lock
+robots.txt
