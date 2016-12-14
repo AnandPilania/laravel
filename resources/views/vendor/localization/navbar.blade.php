@@ -1,0 +1,1 @@
+<a id="english-toggle" href="{{ localization()->getLocalizedURL('en') }}" class="{{ localization()->getCurrentLocale() == 'en' ? 'active' : '' }}">ENG</a><a id="korean-toggle" href="{{ localization()->getLocalizedURL('ko') }}" class="{{ localization()->getCurrentLocale() == 'ko' ? 'active' : '' }}">한국어</a>

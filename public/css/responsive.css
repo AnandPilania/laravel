@@ -1,0 +1,441 @@
+@media (min-width:1318px) and (max-width:1400px) {
+	.inner-Pageheader a img { margin-top:21px;}
+}
+
+@media screen and (max-width: 1317px) {
+	.header-bottom select, .header-bottom button.btn.btn-primary {max-width: 60%;}
+	.header-bottom ul {max-width: 60%;}
+}
+
+@media screen and (max-width: 1199px) {
+	.col-lg-12.pro-right.exchange-profile.edit-area { clear:both;}
+	.inner-Pageheader a img { margin-top:10px;}
+	.col-lg-6.gridView.pd { display: block; clear:both;}
+	.col-lg-6.gridView.pd { display: block\9;    clear:both;}
+	.ie10 .col-lg-6.gridView.pd { display: block;   clear:both;}
+}
+
+@media screen and (max-width: 900px) {
+	.one_section {padding-bottom: 100px; margin-top: 40px;}
+	.form-body.loginMid {   min-height: 600px;}
+	.block-img {    padding-right: 0;}
+	.col-lg-4.pro-left {    clear: both;}
+	.form-horizontal .control-label {  text-align: left !important;}
+	.deatil-tabs ul {display: table;}
+	.deatil-tabs ul li {display: table-cell; float: none;}
+	.inner-Pageheader a img {margin-top:16px; }
+}
+
+@media screen and (max-width: 800px) {
+	.pd{padding: 15px !important;}
+	.home-header h2 {   font-size: 36px;}
+	.home-header .carousel-caption span {   font-size: 15px;}
+	.home-header .carousel-caption a {border: 1px solid #ff7c00; border-radius: 5px; font-size: 17px;   margin-top: 10px; padding: 10px 20px;}
+	.two_section input[type="text"] {width: 60%;}
+	.header-bottom select, .header-bottom button.btn.btn-primary {max-width: 90%;}
+	.home-header .carousel-caption {    top: 28%;}
+	.search-section {float: none; margin: auto; width: 95%;}
+	.search-section .dropdown button.btn.btn-primary {background-size: 41px auto;}
+	.exchange-profile .dropdown button.btn.btn-primary {background-size: 41px auto;}
+	.two_section img {    width: 40px;}
+	.container { width:100%;}
+	.hedaing-area { min-height: auto;}
+	.inner-Pageheader a img { margin-top:20px; }
+	.modl-footer button {  float: right;  height: 45px !important;  line-height: 0 !important;  padding: 0 !important; }
+}
+
+@media screen and (max-width: 747px) {
+	.responsive-text p {font-size: 14px;    margin-top: 10px; width: 100%;}
+	.responsive-text .font-size-42 {font-size: 27px;    margin-top: 10px; width: 100%;}
+	.margin-bottom-10 {margin-bottom: 5px;}
+	.margin-bottom-15 {margin-bottom: 10px;}
+	#chatdata {display: none;}
+	.chat-popup{ display:none !important;}
+	.footer-bottom div {    text-align: center; width: 100%;}
+	.footer-bottom p {  margin: 10px 0;}
+	.modl-footer button {  float: right;  height: 45px !important;  line-height: 0 !important;  padding: 0 !important;  width: 13% !important;}
+	.modl-footer input[type="text"] {width: 86% !important;height: 36px !important;padding:0px !important;}
+	.body-modal img{border-radius: 50%;max-height: 42px;max-width: 42px;width: 100%;height: 100%;}
+	.footer-bottom ul { float: none !important; margin: 15px 0;}
+	ul.nav-botm {   margin: 0;}
+	container {    width: 100% !important;}
+	.two_section img {    width: 65px;}
+	.edit-area-2 {margin: 0 !important;}
+	.profile-bio {padding: 0 20px;}
+	.profile-innerd {padding: 10px;}
+	.edit-area-2 {margin: 0;}
+	.popup-box .popup-messages:hover {overflow-y: auto !important;}
+	.inner-Pageheader a img {margin-left: 0; margin-top:20px; }
+}
+
+@media screen and (max-width: 720px) {
+	.inner-Pageheader ul li a { padding: 12px 9px;}
+}
+
+@media screen and (max-width: 530px) {
+	.profile-innerd {margin-top:15px;}
+}
+
+@media screen and (max-width: 525px) {
+	.inner-Pageheader .inner-logo {float: left; margin-top: 15px; text-align: center; width: 100%;}
+	.inner-Pageheader .paddingTop15px {padding: 14px 23px; width: 100%;}
+	.outer-inner-Pageheader .inner-Pageheader ul {margin: 0;}
+	.paddingTop15px .pull-right {text-align: center; width: 100%;}
+}
+
+@media screen and (max-width: 510px) {
+	#banner_text p {padding: 0 20px;}
+}
+
+@media screen and (max-width: 500px) {
+	ul.down-12 .arrow-up {right: 10px;}
+	.gridView {display: block;  float: left;  width: 100%;}
+	.header-bottom select, .header-bottom button.btn.btn-primary {font-size: 15px;}
+	.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {margin-right: 0 !important;}
+	.two_section img {position:inherit; left:0px; bottom:0px;}
+}
+
+@media screen and (max-width: 480px) {
+	.responsive-text { padding:30px 0 0 0;}
+	.responsive-text h2 {font-size: 27px;}
+	.two_section h3 {font-size: 27px;}
+    .top-bar div {text-align: center;   width: 100%;}
+	.top-bar div.top-top-bar {text-align: left;}
+	.top-bar ul {   float: none !important; margin: 0; padding: 10px 0;}
+	.top-bar div:nth-child(2) {background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;}
+	.home-header h2 {font-size: 25px; line-height: 39px;}
+	.home-header .carousel-caption {top: 30%;}
+	.block-img {background-position: center top;    padding-left: 0; padding-top: 37px; text-align: center;}
+	.block-img p {margin-top: 0;}
+	.inner-Pageheader a img {   margin-left: 0;}
+	.arrow-down {   left: 35px;}
+	.inner-Pageheader ul {  margin: 0;}
+	.form-body h2 {font-size: 22px;}
+	.inner-Pageheader ul li a {padding: 10px; border-radius: 5px;}
+	.inner-Pageheader ul {  /*margin: 10px 0 0;*/}
+	.form-body {    min-height: 750px;padding-top: 20px;}
+	.profile-details {padding-bottom: 100px;}
+}
+
+@media screen and (max-width: 360px) {
+	.responsive-text h2 {font-size: 23px; margin-bottom: 29px;}
+	.top-bar ul li a {font-size: 14px;}
+	.inner-Pageheader ul li a { padding: 10px 5px;}
+	.col-lg-9.col-md-9.col-sm-9.col-xs-9.connect-cta-btn ul li a {font-size: 15px;}
+	.user-info-area ul li strong {  width: 50%;}
+}
+
+@media screen and (max-width: 320px) {
+	.home-header h2 {font-size: 15px;line-height: 23px;}
+	.home-header .carousel-caption {    top: 40%;}
+	.home-header .carousel-caption span {   display: none;}
+	.home-header .carousel-caption a {  font-size: 13px; margin-top: 0;}
+	.header-bottom select, .header-bottom button.btn.btn-primary {font-size: 13px;}
+	.pro-right .btn {width: 100%; display: block;}
+	.inner-Pageheader ul li a { font-size: 16px;}
+	.inner-Pageheader ul li a {font-size: 10px !important;}
+	.inner-Pageheader ul li.active a {padding: 20px 5px;}
+}
+
+@media (min-width:320px) and (max-width:767px) {
+	.container {    width: 87% !important;}
+	.pro-img.user-img-broder {  float: none;}
+	.peers-area .pro-left {float: left; width: 100%;}
+	.hedaing-area {float: left; width: 100%;}
+	.hedaing-area h2 {text-align: center;}
+	.top-bar ul li {margin-left: 0; margin-right: 0;}
+	.two_section ul {margin-top: 50px;}
+	.profile-bio input {width: 100%;}
+	.profile-bio .input-group {width: 100%;}
+	.two_section span { position: static;}
+	img.img-back { width: 100%;}
+	.body-modal p{margin: 10px 0px 10px 0px;}
+}
+
+@media screen and (max-width: 1000px) {
+	.profile-bio { padding: 0px 0px 0px 0px;}
+	.edit-area-2 { margin: 0 !important;}
+}
+
+@media (min-width:320px) and (max-width:359px) {
+	.inner-Pageheader ul li a { font-size: 12.5px;}
+	.user-info-area ul li strong {  width: 47%;}
+	.user-info-area ul li span {  width: 51%;}
+}
+
+@media (min-width:360px) and (max-width:480px) {
+	.user-info-area ul li strong {  width: 41%;}
+	.user-info-area ul li span {  width: 57%;}
+}
+
+@media (min-width:500px) and (max-width:767px) {
+	.top-bar img {width:100%;}
+}
+
+@media (min-width:768px) and (max-width:800px) {
+	.container {    width: 100% !important;}
+	.hedaing-area h2 {  text-align: center;}
+	.two_section ul {   margin-top: 60px;   position: relative;}
+}
+
+@media (min-width:801px) and (max-width:900px) {
+	.container {    width: 80% !important;}
+	.hedaing-area h2 {  text-align: center;}
+}
+
+@media (min-width:901px) and (max-width:980px) {
+	.container {    width: 80% !important;}
+	.hedaing-area h2 {  text-align: center;}
+}
+
+@media (min-width:1000px) and (max-width:1024px) {
+	.container {    width: 80% !important;}
+	.hedaing-area h2 {  text-align: center;}
+}
+
+@media (min-width:674px) and (max-width:1200px) {
+	@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) {
+		@media {
+			.loginMid .checkbox label input {margin-top: 5px;margin-left: -30px;}
+		}
+	}
+}
+
+@media screen and (max-width: 1514px){
+	.chat-right-box {top: 75px;}
+	.chat-right-box ul {height: 83.1%;}
+}
+
+@media screen and (max-width: 1196px) {
+	.chat-right-box ul {height: 100%;}
+}
+
+@media screen and (max-width: 800px) {
+	.arrow-down img {display: none;}
+}
+
+@media screen and (max-width: 400px) {
+	.chat-sidebar{margin: 106px auto 20px; height: 600px; width: 90% !important; display:block !important; position: relative !important;}
+	.chat-friends.intro {display: none;}
+	.name-cl { margin-left: 5%; width: 60% !important; text-align: left;}
+}
+
+@media (min-width:768px) and (max-width:1600px){
+	.diff-main-online .chat-sidebar{ margin:22px 0 0 0 !important;}
+	.chat-sidebar-main{ margin:0px 0 0 0 ;}
+}
+
+@media (min-width:1651px) and (max-width:1920px){
+	.inner-Pageheader a img{margin:9px 0 0 50px;}
+}
+
+@media (min-width:1601px) and (max-width:1650px){
+	.inner-Pageheader a img{margin:9px 0 0 50px;}
+}
+
+@media (min-width:1551px) and (max-width:1600px){
+	.inner-Pageheader a img{margin:9px 0 0 50px;}
+}
+
+@media (min-width:1440px) and (max-width:1550px){
+	.inner-Pageheader a img{ margin:9px 0 0 50px;}
+}
+
+@media (min-width:1366px) and (max-width:1440px){
+	.inner-Pageheader a img{ margin:9px 0 0 50px;}
+}
+
+@media (min-width:1200px) and (max-width:1366px){
+	.inner-Pageheader a img{ margin:9px 0 0 50px; }
+}
+
+@media (min-width:1025px) and (max-width:1199px){
+	.inner-Pageheader a img{ margin:9px 0 0 50px;}
+}
+
+@media (min-width:1000px) and (max-width:1024px){
+	.inner-Pageheader a img{ margin:9px 0 0 50px;}
+	.top-bar img{ width:147px; height:113px; }
+}
+
+@media (min-width:768px) and (max-width:999px){
+	.inner-Pageheader a img{ margin:9px 0 0 0px;}
+	.top-bar img{ width:147px; height:113px; }
+}
+
+@media (min-width:526px) and (max-width:767px){
+	#552-messages{ overflow-y:scroll;}
+	.inner-Pageheader a img{ margin:9px 0 0 0px;}
+	.top-bar img{ width:147px; height:113px; }
+	.diff-main-online .chat-sidebar{ margin:17px 0 0 0 !important;}
+	.chat-sidebar-main{ margin:55px 0 0 0 ;}
+	.form-body.loginMid{ margin:30px 0 0 0;}
+}
+
+@media (min-width:481px) and (max-width:525px) {
+	.chat-sidebar{ margin:5px 0 0 0 !important;}
+	.form-body.loginMid{ margin:30px 0 0 0;}
+	#552-messages{ overflow-y:scroll;}
+	.inner-Pageheader a img {margin-left: 0; margin-top:0px; }
+	.top-bar img{ width:122px; height:95px;}
+	.top-bar ul li a{ padding:4px 8px;}
+	.gap{ min-height:165px !important; }
+}
+
+@media (min-width:320px) and (max-width:480px) {
+	.chat-sidebar{ margin:8px 0 0 0 !important;}
+	.chat-sidebar-main{margin-top: 0px !important;}
+	.form-body.loginMid{ margin:50px 0 0 0;}
+	.resetMid { padding:75px 0 0 0;}
+	.top-bar ul.loginul li{ display:inline-block; line-height:30px; width:32%;}
+	.top-bar ul.loginul li a{ padding:4px 5px;}
+	.top-bar ul.loginul li:last-child a{ text-align:left;}
+	.top-bar ul.loginul li ul.down-12 li{ width:100%;}
+	#552-messages{ overflow-y:scroll;}
+	.inner-Pageheader a img {margin-left: 0; margin-top:5px; }
+	.top-bar img{ width:122px; height:95px;}
+	.gap{ min-height:165px !important;}
+	.two_section input[type="text"] {width: 60%; font-size:13px; font-weight:normal;}
+	.two_section p{ margin:20px 0 0 0;}
+	#about_sub_form label.error{ left: 8% !important; top:75px !important;    }
+	.footer, .footer-bottom{ padding:12px 0 45px 0;}
+}
+
+@media only screen and (min-width:1200px) and (max-width:1256px) {
+	.fil_univ_blck {width: 62%;}
+	.fil_univ_blck_4 {width: 62%;}
+	.fil_univ_blck_3 h3 {text-align: right;}
+}
+
+@media only screen and (min-width:840px) and (max-width:991px) {
+	.fil_univ_blck_3 h3 {   text-align: right;}
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+	.fil_univ_blck h3 { text-align:left; }
+	.deatil-tabs ul li {  margin-left: 0;}
+	.deatil-tabs  .nav-pills > li{ text-align:center; margin:0 0 10px 0;}
+	.deatil-tabs .nav > li > a { padding: 10px 8px;}
+	.pd {padding: 15px !important;}
+}
+
+@media only screen and (min-width:840px) and (max-width:991px){
+	.fil_univ_blck_3 h3 {text-align: right;}
+}
+
+@media only screen and (min-width:320px) and (max-width:767px){
+	.fil_univ_blck h3 { text-align:left; }
+	.university-lft-1-outer{ width:100%; padding:0 0%;}
+	.deatil-tabs  .nav-pills > li{ text-align:center; margin:0 0 10px 0;}
+	.top-msg {background: rgba(0, 0, 0, 0) url("http://www.flyingchalks.com/img/top-arrow.png") no-repeat scroll center 0; float: left; left: 0; padding: 20px 0; position: absolute; top: -31px; width: 100%;}
+	.topUp {margin-top:100px !important;}
+	.meassge-box {position: relative;}
+	.arrow-left-icon {display: none;}
+	.deatil-tabs { margin-top: 10px;}
+	.univ_part {float: left; margin-top: 11px; text-align: center; width: 100%;}
+	.univ_part img {display: inline; width: auto; float:none;}
+	.fil_univ_blck {float: left; width: 100%;}
+	.fil_univ_blck_4 {float: left; width: 100%;}
+	.fil_univ_blck_3 h3 {text-align: left;}
+	.inner_university_blck {float: none; margin: 20px auto 0; width: 50%;}
+	.university-lft-1 {width: 100%;}
+	.university-lft-1 {margin: 0;}
+	.meassge-box {margin: 35px 0 12px;}
+	#universityList {margin-top: 0;}
+	.mobile-view { display:block !important;}
+	.desktop-view { display:none;}
+}
+
+@media (min-width:768px) and (max-width:837px){
+	.fil_univ_blck {width: 100%;}
+	.fil_univ_blck_4 {width: 100%;}
+	.fil_univ_blck_3 h3 {text-align: left;}
+}
+
+@media (min-width:320px) and (max-width:800px){
+	.fil_univ_blck_1{ width:100% !important; }
+	.deatil-tabs ul li {  margin-left: 0;}
+	.header-bottom ul {max-width: 90%;}
+}
+
+@media only screen and (max-width:600px){
+	.deatil-tabs {  margin-top: 20px;}
+	.deatil-tabs .nav-pills {  float: left;  width: 100%;}
+	.deatil-tabs .nav-pills li {  float: left;  position: inherit;  width: 100%;}
+	.deatil-tabs .nav > li > a { display: block; float: left;  margin-bottom: 10px;  padding: 10px 14px;  position: inherit;  width: 100%;}
+	.submit-area h3 { font-size: 16px;}
+}
+
+@media only screen and (max-width:600px){
+	.sa_cu_blck .nav-pills > li > a {  padding: 10px 15px; }
+	.extra {
+		font-size: 14px !important;
+		text-align:center !important;
+	}
+	.loginMid .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"], .radio input[type="radio"], .radio-inline input[type="radio"] {
+		margin-left: -35px;
+	}
+	.outer-inner-Pageheader .inner-Pageheader ul {
+		margin: 0 6px 0 0;
+	}
+	.loginMid .checkbox label input {
+		margin-top: 0;
+	}
+	.inner-Pageheader ul li a {
+		padding: 10px 1px;
+	}
+}
+
+@media only screen and (max-width:423px){
+	.inner-logo {
+		float: left;
+		margin-top: 15px;
+		text-align: center;
+		width: 100%;
+	}
+	.form-body.loginMid h2 {
+		margin-top:0px;
+	}
+	.form-body.regMid h2 {
+		margin-top:0px;
+	}
+	.paddingTop15px {
+		padding: 14px 23px;
+		width: 100%;
+	}
+	.arrow-down {
+		display: none;
+		left: 35px;
+	}
+	.inner-Pageheader ul li a {
+		font-size: 13.5px;
+	}
+	.detail-submit textarea {
+		font-size: 11px;
+	}
+	.header-bottom select, .header-bottom button.btn.btn-primary {
+		font-size: 13px !important;
+		text-align: left !important;
+	}
+	.paddingTop15px .pull-right {
+		text-align: center;
+		width: 100%;
+	}
+	.tab-section .tab-content #home, #menu1, #menu2, #menu3, #menu4, #menu5 {
+		padding: 15px 0;
+	}
+	.inner-Pageheader ul li a {
+		font-size: 12.1px;
+	}
+}
+
+@media (min-width:1250px) and (max-width:1350px){
+	.fil_univ_blck_3 {width: 36%; }
+}
+@media (min-width:1000px) and (max-width:9999px) {
+	div#banner_text {
+		margin-top: 50px;
+		margin-left: 50px;
+		font-size: 16pt;
+	}
+}

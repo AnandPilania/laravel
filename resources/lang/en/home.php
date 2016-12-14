@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'caption'             => 'Study & Travel',
+    'join_caption'        => '<span>Join our community of <u><b>{totalUsers}</b></u> students who are studying abroad or have returned.</span><span><b><i>Plan</b></i> your overseas trip. Benefit from <b><i>Shared</b></i> experiences. <b><i>Connect</b></i> with international friends.</span>',
+    'join_button'         => 'Join our Community',
+    'plan_description_1'  => '<b>University Guides</b> are written by seniors who have returned from their study abroad or overseas exchange programs.',
+    'plan_description_2'  => 'Obtain useful information regarding student accommodation, student VISA and more to assist you in your planning!',
+    'share_description_1' => 'Share your travel abroad experiences and similarly, benefit from contributions by other international students.',
+    'share_description_2' => '<b>Read reviews</b> from seniors so as to forge your own unique experience and avoid making the same rookie mistakes when you go abroad!',
+    'connect_description' => 'Get connected with our warm community of:',
+    'connect_item_1'      => '<b>Peers</b> who are heading to the same university or country.',
+    'connect_item_2'      => '<b>Seniors</b> who have returned from their international studies.',
+    'connect_item_3'      => '<b>Local students</b> who warmly welcome international students.',
+    'team_description'    => 'Hi there! We are a team of university students who have bonded through our love for international adventure and passion for growth. While learning outside of the classroom can be extremely beneficial, we believe in going further – learning beyond international borders. Having experienced our share of international studies, we understand your needs and are here to help!',
+    'mission_description' => 'Flying Chalks was conceived with the mission of helping students enhance their international education experience. We want to make your planning experience easier through our interactive platform, and also provide you with shortcuts in the form of advice from seniors who have embarked on this journey before. Also, we seek to connect you with other like-minded students so that friends and travel companions are always within an arm’s reach!',
+    'singup_caption_1'    => 'Are you ready for an adventure?',
+    'singup_caption_2'    => 'Education doesn\'t have to be boring, let it take flight!',
+    'signup_facebook'     => 'Sign up with Facebook',
+    'or'                  => 'or',
+    'email'               => 'Email',
+    'password'            => 'Password',
+    'term_condition'      => 'By signing up, I agree to Flying Chalks\' <a href="/pages/privacy-policy" target="_blank">Terms of Service</a> and <a href="/pages/terms-of-use" target="_blank">Privacy Policy</a>.',
+    'register'            => 'Register',
+    'tip_facebook'        => 'Get travel tips and latest updates from our  <a href="https://www.facebook.com/flyingchalks" target="_blank"><img class="social-icon" src="/img/fb-logo.png"> Facebook page.</a>',
+    'tip_instagram'       => 'Let our Flying Chalks Ambassadors tour you round the globe on  <a href="https://www.instagram.com/flyingchalks" target="_blank"><img class="social-icon" src="/img/instagram-logo.png"> Instagram.</a>',
+];

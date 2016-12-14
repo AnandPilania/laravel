@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'caption'             => '여행과 공부를 동시에',
+    'join_caption'        => '<span>교환학생⋅유학을 꿈꾸는 후배, 다녀온 선배 <u><b>{totalUsers}</b></u> 명이 한 자리에 모인 온라인 커뮤니티, Flying Chalks에서 다가올 유학 <br/>생활을 계획하고, 선배들이 들려주는 경험담에서 정보도 얻고, 세계 다양한 친구들과 우정을 쌓아보세요.</span>',
+    'join_button'         => '함께해요',
+    'plan_description_1'  => '<b>대학별 가이드</b> 는 교환학기⋅유학을 다녀온 선배들의 경험을 토대로 작성된 유일무이한 전 세계 대학 안내서입니다.',
+    'plan_description_2'  => '숙소, 비자, 맛집 등 유용한 정보가 가득한 가이드를 통해 보다 쉽게 나의 교환학기, 유학생활을 준비해보세요!',
+    'share_description_1' => '혼자 알기엔 아쉬운 나의 교환학기, 유학 시절 추억과 팁을 후배들과 공유해보세요. 전 세계 곳곳의 다양한 학생들의 이야기도 엿볼 수 있어요.',
+    'share_description_2' => '선배들이 직접 체험하고 작성한 솔직한 후기(Review)를 통해 더욱 특별한 나만의 교환 학기, 유학 생활을 계획해보세요. Flying Chalks와 함께라면 초보들이나 하는 실수는 남의 이야기라는 거',
+    'connect_description' => '따뜻한 커뮤니티, Flying Chalks에서 만날 수 있는 소중한 인연들을 소개합니다.',
+    'connect_item_1'      => '같은 공간에서 함께 공부할 친구들(Peers)',
+    'connect_item_2'      => '먼저 다녀와 꿀팁을 알려줄 선배들(Seniors)',
+    'connect_item_3'      => '진정한 로컬 체험을 알려줄 현지 학생들(Local Students)',
+    'team_description'    => '안녕, 친구들! 세계 곳곳을 탐험하고 이를 통해 성장하기를 사랑하는 대학생들로 똘똘 뭉친Flying Chalks팀을 소개합니다. 진정한 배움은 간혹 교실 밖에서 이루어진다고 하죠? 저희 Flying Chalks팀은 교실을 넘어 국경을 넘나드는 배움을 지향합니다. 세계 각지로 교환학생을 다녀온 이들로 구성된 팀이기에 어렵고 힘든 준비과정을 누구보다 잘 이해하고 있습니다. 해마다 되풀이 되는 시행착오를 줄이고, 보다 즐거운 교환학기, 유학 생활을 학생들에 선사하는 것, Flying Chalks팀이 이 여행을 시작한 이유입니다.',
+    'mission_description' => 'Flying Chalks를 통해 대학생들이 잊지 못 할 교환학기, 유학 생활을 보낼 수 있다면 얼마나 좋을까요? 유학 생활의 선, 후배가 한 자리에 모여 소통할 수 있는 자리를 마련하여 준비 과정의 시행착오를 줄이는 것, 다녀오지 않고서는 알 수 없는 소중한 팁과 조언을 주고 받을 수 있는 따뜻한 소통의 장을 마련하는 것, 간단한 클릭 한 번으로 한 뜻을 품은 전 세계 친구들과 만날 수 있는 커뮤니티를 형성하는 것, Flying Chalks가 이루고자 하는 꿈입니다.',
+    'singup_caption_1'    => '모험을 즐길 준비가 되셨나요?',
+    'singup_caption_2'    => '지루한 공부는 이제 그만, Flying Chalks와 함께 즐겁게 배워요!',
+    'signup_facebook'     => 'Facebook으로 회원가입',
+    'or'                  => '또는',
+    'email'               => '이메일',
+    'password'            => '비밀번호',
+    'term_condition'      => '가입하면 Flying Chalks의 <a href="/ko/pages/privacy-policy" target="_blank">약관</a> 및 <a href="/pages/terms-of-use" target="_blank">개인정보 취급방침</a>에 동의하게 됩니다.',
+    'register'            => '등록',
+    'tip_facebook'        => '페이스북  <a href="https://www.facebook.com/flyingchalks" target="_blank"><img class="social-icon" src="/img/fb-logo.png"></a>  에서 여행 꿀팁과 최신 소식을 받아보세요.',
+    'tip_instagram'       => '인스타그램  <a href="https://www.instagram.com/flyingchalks" target="_blank"><img class="social-icon" src="/img/instagram-logo.png"></a>  에서 전 세계에서 활동 중인 Flying Chalks Ambassador들이 들려주는 <br/>여행기를 확인해보세요',
+];
